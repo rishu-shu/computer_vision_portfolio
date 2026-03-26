@@ -9,16 +9,31 @@ This module includes:
 - Transformations
 - Filters
 
-# OpenCV Image Loading(Day 1)
+## OpenCV Image Loading(Day 1)
 - Load Image
 - Display Image
 
-# OpenCV Image Processing (Day 2)
+## OpenCV Image Processing (Day 2)
 This project demonstrates basic image processing using OpenCV:
 - Grayscale conversion
 - Resizing
 - Cropping
 - Rotation
+
+## Visual Effects(Day 3)
+- Blur, Gaussian Blur, Median Blur
+- Edge Detection (Canny)
+- Thresholding
+- Morphological Operations:
+  - Dilation
+  - Erosion
+  - Opening
+  - Closing
+- Image Sharpening
+
+### Improvements
+- Applied Gaussian smoothing before edge detection
+
 
 ## Tools Used
 - OpenCV
