@@ -34,6 +34,14 @@ This project demonstrates basic image processing using OpenCV:
 ### Improvements
 - Applied Gaussian smoothing before edge detection
 
+## (Drawing with OpenCV (Day 4)
+- Drew basic shapes:
+  - Line
+  - Rectangle
+  - Circle
+  - Polygon
+- Used NumPy to define custom polygon points
+- Added text to the image
 
 ## Tools Used
 - OpenCV
