@@ -51,6 +51,15 @@ This project demonstrates basic image processing using OpenCV:
   - Press 'c' to clear screen
   - Press 'q' to quit
 
+## Webcam Processing (Day 6)
+- Accessed webcam using OpenCV
+- Displayed real-time video
+- Applied filters:
+  - Grayscale
+  - Blur
+  - Edge Detection
+- Used keyboard controls to switch modes    
+
 ## Tools Used
 - OpenCV
 - Python
