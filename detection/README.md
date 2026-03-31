@@ -1,4 +1,4 @@
-##Face Detection 
+#Face Detection
 - Implemented real-time face detection using Haar Cascade
 - Used OpenCV pre-trained model
 - Detected faces from webcam feed
